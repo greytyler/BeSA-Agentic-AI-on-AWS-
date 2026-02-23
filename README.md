@@ -1,4 +1,4 @@
-# AWS BeSA 2026 | Solutions Architecture & Agentic AI Master Lab
+# AWS BeSA (Become a Solutions Architect) 2026 | Solutions Architecture & Agentic AI Master Lab
 
 A comprehensive technical repository documenting my journey through the **[Become a Solutions Architect (BeSA)](https://besaprogram.com)** 2026 cohort. This "Master Lab" serves as a central hub for architectural patterns, Infrastructure-as-Code (IaC) templates, and end-to-end AI implementations.
 
